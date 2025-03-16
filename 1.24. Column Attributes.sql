@@ -1,0 +1,5 @@
+-- CHAR(): untuk menyimpan string karakter dengan panjang tetap, kalo kurang, bakal ditambahi spasi sampe panjangnya sesuai yg ditetapkan
+-- VARCHAR(): untuk menyimpan string karakter dengan maksimum panjang yg ditetapkan.
+-- PK: Primary Key
+-- NN: Not NULL
+-- AI: Auto Increment
