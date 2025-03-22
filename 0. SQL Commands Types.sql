@@ -1,7 +1,7 @@
 -- Data Definition Language (DDL)
 	-- CREATE
-    -- DROP
-    -- ALTER
+    	-- DROP
+    	-- ALTER
 
 -- Data Query Language (DQL)
 	-- SELECT
